@@ -1,0 +1,26 @@
+name: "#BlackInMarineScienceWeek"
+output_dir: "."
+navbar:
+  title: "#BlackInMarineScience"
+  left:
+    - text: "Home"
+      icon: fa-ship
+      href: index.html
+    - text: "#BlackInMarineScienceWeek"
+      icon: fa-users
+      href: bimsw2020.html
+    - text: "Resources"
+      icon: fa-flask
+      href: resources.html
+    - text: "Media"
+      icon: fa-cog
+      href: media.html
+    - text: "Organizers"
+      icon: fa-id-badge
+      href: bimsw2020_orgs.html
+  right:
+  - icon: fa-twitter fa-lg
+    href: https://twitter.com/BlackinMarSci
+  - icon: fa-instagram fa-lg
+    href: https://www.instagram.com/blackinmarinescience/
+      
