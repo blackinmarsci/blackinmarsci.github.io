@@ -19,7 +19,9 @@ output:
 <img src="photos/BlackInMarSciStd.jpg" style="width:100%">
 
 ### November 29 - December 5
-## *Stay tuned for updates!*
+<center>
+
+## *More information coming soon!*
 
 
 
