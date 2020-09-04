@@ -10,7 +10,11 @@ output:
 <br>
 <br>
 
-# Prospective Schedule
+# #BlackInMarineScienceWeek 2020
+
+# Prospective Schedule - more information coming soon! {.tabset .tabset-fade}
+
+<br>
 
 ## Sunday, November 29
 * ### #BlackInMarineScienceRollCall
@@ -39,11 +43,9 @@ output:
 * ### Joy in the field
 
 
-<center>
 
-<center>
 
-## *More information coming soon!*
+
 
 
 
