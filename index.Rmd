@@ -24,5 +24,8 @@ output:
 ## *More information coming soon!*
 <br>
 <br>
+<hr>
+<br>
+<br>
 <a class="twitter-timeline" data-width="500" data-height="750" href="https://twitter.com/BlackinMarSci?ref_src=twsrc%5Etfw">Tweets by @BlackinMarSci</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
