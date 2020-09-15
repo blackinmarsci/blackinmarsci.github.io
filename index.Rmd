@@ -12,13 +12,12 @@ output:
 <br>
 <center>
 
-# #BlackInMarineScienceWeek
-
 <br>
 
-<img src="photos/BlackInMarSciStd.jpg" style="width:100%">
+<img src="photos/BlackMarSci_400x400.jpg" style="width:50%">
+<br>
 
-### November 29 - December 5, 2020
+
 
 
 ## *More information coming soon!*
