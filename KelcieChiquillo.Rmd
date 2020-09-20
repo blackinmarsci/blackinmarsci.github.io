@@ -1,0 +1,7 @@
+---
+title: "Kelci Chiquillo"
+output: 
+  html_document:
+    theme: yeti
+    toc: false
+---
