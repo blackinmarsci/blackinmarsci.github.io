@@ -22,34 +22,33 @@ output:
 <br>
 </center>
 
-# Prospective Schedule - more information coming soon! {.tabset .tabset-fade .tabset-pills}
+# Prospective Schedule - events to be confirmed! {.tabset .tabset-fade .tabset-pills}
 
 
 <br>
 
-## Sunday, November 29
+## Sun | Nov 29
 * ### #BlackInMarineScienceRollCall
 * ### Career Panel
 
-## Monday, November 30
+## Mon | Nov 30
 * ### Different ways people specialize in the field
-* ### Podcast takeover?
 
-## Tuesday, December 1
+## Tues | Dec 1
 * ### Hair Care & Wash Day
-* ### Water Competency?
+* ### Water Competency
 
-## Wednesday, December 2
+## Weds | Dec 2
 * ### Stereotypes / Experiences in Marine Science
 
-## Thursday, December 3
+## Thurs | Dec 3
 * ### K-12 Outreach Day
 * ### Representation / Empowerment Panel
 
-## Friday, December 4
+## Fri | Dec 4
 * ### Happy hour networking
 
-## Saturday, December 5
+## Sat | Dec 5
 * ### #BlackJoyInMarineScience
 * ### Joy in the field
 
