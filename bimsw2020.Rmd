@@ -16,11 +16,10 @@ output:
 <br>
 <br>
 
-<img src="photos/BlackInMarSciStd.jpg" style="width:100%">
+<img src="photos/BimswAd.jpg" style="width:50%">
 
 <br>
 <br>
-</center>
 
 # Prospective Schedule - events to be confirmed! {.tabset .tabset-fade .tabset-pills}
 
@@ -28,29 +27,29 @@ output:
 <br>
 
 ## Sun | Nov 29
-* ### #BlackInMarineScienceRollCall
-* ### Career Panel
+### #BlackInMarineScienceRollCall
+### Career Panel
 
 ## Mon | Nov 30
-* ### Different ways people specialize in the field
+### Different ways people specialize in the field
 
 ## Tues | Dec 1
-* ### Hair Care & Wash Day
-* ### Water Competency
+### Hair Care & Wash Day
+### Water Competency
 
 ## Weds | Dec 2
-* ### Stereotypes / Experiences in Marine Science
+### Stereotypes / Experiences in Marine Science
 
 ## Thurs | Dec 3
-* ### K-12 Outreach Day
-* ### Representation / Empowerment Panel
+### K-12 Outreach Day
+### Representation / Empowerment Panel
 
 ## Fri | Dec 4
-* ### Happy hour networking
+### Happy hour networking
 
 ## Sat | Dec 5
-* ### #BlackJoyInMarineScience
-* ### Joy in the field
+### #BlackJoyInMarineScience
+### Joy in the field
 
 
 
