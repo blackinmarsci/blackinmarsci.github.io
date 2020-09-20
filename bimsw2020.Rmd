@@ -23,7 +23,6 @@ output:
 
 # Prospective Schedule - events to be confirmed! {.tabset .tabset-fade .tabset-pills}
 
-
 <br>
 
 ## Sun | Nov 29
