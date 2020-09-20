@@ -19,6 +19,10 @@ output:
 ## General Advice
 * [Resources for Emerging Ocean Scientists](https://ucdcmsi.github.io/mcs-resources/), from UC Davis' Coastal and Marine Sciences Institute
 
+## Organizations
+* [Minorities in Shark Sciences](https://www.misselasmo.org/)
+
+
 ## Funding
 * [Mahogany Mermaids](https://www.mahoganymermaids.com/): For Black/African Marine & Environmental Scientists
 <br>
