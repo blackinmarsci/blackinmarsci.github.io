@@ -1,0 +1,14 @@
+---
+title: "Kaylee Arnold"
+output: 
+  html_document:
+    theme: yeti
+    toc: false
+---
+
+<center>
+
+<br>
+<br>
+
+# Photos & Information about Kaylee coming soon!

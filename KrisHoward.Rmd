@@ -1,0 +1,14 @@
+---
+title: "Kris Howard"
+output: 
+  html_document:
+    theme: yeti
+    toc: false
+---
+
+<center>
+
+<br>
+<br>
+
+# Photos & Information about Kris coming soon!

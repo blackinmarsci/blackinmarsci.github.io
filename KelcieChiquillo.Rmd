@@ -1,7 +1,24 @@
 ---
-title: "Kelci Chiquillo"
+title: "Kelcie Chiquillo"
 output: 
   html_document:
     theme: yeti
     toc: false
 ---
+<center>
+
+<br>
+<br>
+
+<img src="orgz_images/Chiquillo_field_seagrass.jpg" alt="Kelcie Diving" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="orgz_images/Chiquillo_fieldshot.jpg" alt="Kelcie PVC Frame" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<p style="clear: both;">
+
+Twitter Handle: @captain_kalichi
+
+IG Handle: @captain_kalichi
+
+Pronouns: She / Her
+
+I am a Marine Biologist who studies #seagrass! I use multidisciplinary techniques to understand the evolutionary and ecological dynamics that influence marine invasions. More specifically, I work on a globally invasive seagrass and ask: how it arrived to the Caribbean, how it competes with other native #seagrasses and what are the #microbes associated with it’s competition and invasion. I love learning about marine science and applying my knowledge as a newbie fly fishing angler! I love asking questions, travelling, and bringing new people into fishing and scuba diving. I am involved with #BlackInMarineScienceWeek, as an ally, to highlight all the excellent Black marine scientists across the world!! 
+ 

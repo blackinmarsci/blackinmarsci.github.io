@@ -10,41 +10,36 @@ output:
 ## *More information coming soon!*
 
 <p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="orgz_images/TMoore_headshot.jpg" style="width: 100%">[**Dr. Tiara Moore**](TiaraMoore.html)</p>
-<img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" alt="Cuttlefish" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" alt="Cuttlefish" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" style="width: 100%">[**Kaylee Arnold**](KayleeArnold.html)</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="orgz_images/JElcock_Headshot.jpg" style="width: 100%">[**Jaida Elcock**](JaidaElcock.html)</p>
 <p style="clear: both;">
 
 <br>
 
-<img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" alt="Cuttlefish" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" alt="Cuttlefish" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" alt="Cuttlefish" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" style="width: 100%">[**Camille Gaynus**](CamilleGaynus.html)</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="orgz_images/JGraham_Headshot.jpg" style="width: 100%">[**Jasmin Graham**](JasminGraham.html)</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" style="width: 100%">[**Kris Howard**](KrisHoward.html)</p>
 <p style="clear: both;">
 
 <br>
 
-<img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" alt="Cuttlefish" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" alt="Cuttlefish" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" alt="Cuttlefish" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="orgz_images/CJackson_headshot.jpeg" style="width: 100%">[**Carlee Jackson**](CarleeJackson.html)</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" style="width: 100%">[**Leslie Townsell**](LeslieTownsell.html)</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" style="width: 100%">[**Amani Webber-Schultz**](AmaniWebber.html)</p>
 <p style="clear: both;">
 
-<br>
-
-<img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" alt="Cuttlefish" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" alt="Cuttlefish" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" alt="Cuttlefish" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<p style="clear: both;">
 
 <br>
-
-
-## 
+<br>
 
 <hr>
 
-<img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" alt="Cuttlefish" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" alt="Cuttlefish" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" alt="Cuttlefish" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<br>
+<br>
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="orgz_images/francis-nie-DcitvRh5n18-unsplash.jpg" style="width: 100%">[**Anika Agrawal**](AnikaAgrawal.html)</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="orgz_images/Chiquillo_headshot.jpeg" style="width: 100%">[**Kelcie Chiquillo**](KelcieChiquillo.html)</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="orgz_images/PShukla_mussel.jpg" style="width: 100%">[**Priya Shukla**](PriyaShukla.html)</p>
 <p style="clear: both;">
 
 <br>

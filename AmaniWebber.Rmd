@@ -1,0 +1,14 @@
+---
+title: "Amani Webber-Schultz"
+output: 
+  html_document:
+    theme: yeti
+    toc: false
+---
+
+<center>
+
+<br>
+<br>
+
+# Photos & Information about Amani coming soon!

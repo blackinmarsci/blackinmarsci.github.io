@@ -5,3 +5,25 @@ output:
     theme: yeti
     toc: false
 ---
+<center>
+
+<br>
+<br>
+
+<img src="orgz_images/JGraham_IMG_6758.jpg" alt="Jasmin Boat" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="orgz_images/JGraham_P5180013.jpg" alt="Jasmin Boat" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="orgz_images/JGraham_Picture1.jpg" alt="Jasmin Sawfish" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<p style="clear: both;">
+
+Twitter Handle: @Elasmo_Gal 
+
+Websites: 
+* [Personal Website](grahamjr.weebly.com)
+* [marscilace.org](marscilace.org)
+* [misselasmo.org](misselasmo.org)
+
+Pronouns: She / Her
+
+Jasmin specializes in elasmobranch ecology and evolution. Her research interests include smalltooth sawfish movement ecology and hammerhead shark phylogeny. She is a member of the American Elasmobranch Society and has served on their Student Advisory Committee for two years. Jasmin has a passion for science education and making science more accessible for everyone. She is the project coordinator for the MarSci-LACE project at Mote Marine Laboratory, which is focused on researching and promoting best practices to recruit, support and retain minority students in marine science. She is also President and CEO of Minorities in Shark Sciences, which is an organization dedicated to supporting women of color in shark science. Her favorite part of marine science is that there is so much that is unknown about the ocean and the organisms that live there, so there is always more to learn and more to study. She joined the Black in Marine Science team because she wants to help open doors for more underrepresented minority students to join the exciting field of marine science. 
+
+ 
