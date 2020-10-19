@@ -6,8 +6,8 @@ navbar:
     - text: "Home"
       icon: fa-whale
       href: index.html
-    - text: "#BlackInMarineScienceWeek"
-      icon: fa-fish
+    - text: "BlackInMarineScienceWeek"
+      icon: fa-hashtag
       href: bimsw2020.html
     - text: "Resources"
       icon: fa-anchor
