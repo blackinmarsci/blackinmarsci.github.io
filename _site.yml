@@ -4,7 +4,7 @@ navbar:
   title: "#BlackInMarineScience"
   left:
     - text: "Home"
-      icon: fa-whale
+      icon: fa-life-ring
       href: index.html
     - text: "BlackInMarineScienceWeek"
       icon: fa-hashtag
@@ -13,10 +13,10 @@ navbar:
       icon: fa-anchor
       href: resources.html
     - text: "Media"
-      icon: fa-water
+      icon: fa-fish
       href: media.html
     - text: "Organizers"
-      icon: fa-narwhal
+      icon: fa-ship
       href: organizers_bimsw2020.html
   right:
   - icon: fa-twitter fa-lg
