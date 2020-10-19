@@ -4,23 +4,23 @@ navbar:
   title: "#BlackInMarineScience"
   left:
     - text: "Home"
-      icon: fa-life-ring
+      icon: fa-life-ring   fa-1x
       href: index.html
     - text: "BlackInMarineScienceWeek"
-      icon: fa-hashtag
+      icon: fa-hashtag   fa-1x
       href: bimsw2020.html
     - text: "Resources"
-      icon: fa-anchor
+      icon: fa-anchor   fa-1x
       href: resources.html
     - text: "Media"
-      icon: fa-fish
+      icon: fa-fish   fa-1x
       href: media.html
     - text: "Organizers"
-      icon: fa-ship
+      icon: fa-ship  fa-1x
       href: organizers_bimsw2020.html
   right:
-  - icon: fa-twitter fa-lg
+  - icon: fa-twitter  fa-1x
     href: https://twitter.com/BlackinMarSci
-  - icon: fa-instagram fa-lg
+  - icon: fa-instagram  fa-1x
     href: https://www.instagram.com/blackinmarinescience/
       
