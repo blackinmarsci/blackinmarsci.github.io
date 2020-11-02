@@ -1,0 +1,23 @@
+---
+title: "Al Troutman"
+output: 
+  html_document:
+    theme: yeti
+    toc: false
+---
+<center>
+
+<br>
+<br>
+
+<img src="orgz_images/CJackson_IMG_0017.jpg" alt="Carlee Jackson Headshot" style="float: center; width: 40%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="orgz_images/CJackson_IMG_0021.jpg" alt="Carlee Jackson Boat & Fish" style="float: center; width: 40%; margin-right: 1%; margin-bottom: 0.5em;">
+<p style="clear: both;">
+
+Twitter Handle: @N8ture_AL
+
+IG Handle:  @N8ture_AL
+
+Pronouns: He / Him
+
+I’m a wildlife Biologist Twitter & IG handle: @N8ture_AL and Science Communicator I have a passion for nature and evening bigger  passion for sharing and immersing the younger generation into nature, especially  BIPOC who may not picture themselves in the marine field. I’m from Austell Georgia and I’m currently pursuing a master’s degree Studying Seaside Sparrows and Insect dynamics in Tidal marshes of Georgia. I have held several Positions in the marine Field including: Environmental Educator, Sea Turtle Biologist and Endangered Species Observer. I enjoy  working in the marine field because  many of the animals and  their environment teaches us to go with the flow, life is full of changes  you can either give up or flow with the waves.
