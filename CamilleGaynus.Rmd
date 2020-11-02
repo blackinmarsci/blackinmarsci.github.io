@@ -11,7 +11,8 @@ output:
 <br>
 <br>
 
-[Photos of Camille Coming Soon!] 
+<img src="orgz_images/CGaynus_UPenn.png" alt="Camille Poses On The Waterfront" style="float: center; width: 40%; margin-right: 1%; margin-bottom: 0.5em;">
+<p style="clear: both;">
 
 Twitter Handle: @seagaynus
 

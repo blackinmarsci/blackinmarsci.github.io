@@ -11,8 +11,8 @@ output:
 <br>
 <br>
 
-<img src="orgz_images/JElcock_Anemone.jpg" alt="Jaida & Anemone" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="orgz_images/JElcock_SeaTrek.jpg" alt="Jaida SeaTrek" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="orgz_images/AWebberSchultz_SharkNight.jpg" alt="Amani Shark At Night" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="orgz_images/AWebberSchultz_MC&S1.jpg" alt="Amani Wearing Fins" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <p style="clear: both;"> 
 
 Twitter: @Curly_Biologist
