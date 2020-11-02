@@ -22,38 +22,231 @@ output:
 <br>
 
 # Prospective Schedule - events to be confirmed! {.tabset .tabset-fade .tabset-pills}
+*All events are ONE HOUR long, unless otherwise stated*
 
 <br>
 
-## Sun | Nov 29
-### #BlackInMarineScienceRollCall
-### Career Panel
+## **Sun | NOV 29**
 
-## Mon | Nov 30
-### Different ways people specialize in the field
-
-## Tues | Dec 1
-### Hair Care & Wash Day
-### Water Competency
-
-## Weds | Dec 2
-### Stereotypes / Experiences in Marine Science
-
-## Thurs | Dec 3
-### K-12 Outreach Day
-### Representation / Empowerment Panel
-
-## Fri | Dec 4
-### Happy hour networking
-
-## Sat | Dec 5
-### #BlackJoyInMarineScience
-### Joy in the field
+<br>
 
 
+### **#BIMSRollCall**
+#### *A day to introduce the week, highlight Black Marine Scientists, and discuss different marine careers*
+<br>
+<br>
+<img src="photos/Flyer_SundayNov29.jpg" alt="Black In Marine Science Week: Sunday Schedule" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<p style="clear: both;">
+<br>
+<br>
+ALL DAY | **Post Roll Call Videos**
+<br>
+<br>
+<br>
+<a class="twitter-hashtag-button"
+  href="https://twitter.com/intent/tweet?button_hashtag=BIMSRollCall">
+Tweet #BIMSRollCall</a>
+
+## **Mon | NOV 30**
+
+<br>
 
 
+### **#WhatIsMarineScience**
+#### *A day to define marine science and the multiple techniques that we use*
+<br>
+<br>
+4:00pm EST | **Instargram Live: Drs. Tiara Moore + Ayana Johnson, "What does Marine Science mean to you?"**
+<br>
+<br>
+<br>
+<a class="twitter-hashtag-button"
+  href="https://twitter.com/intent/tweet?button_hashtag=WhatIsMarineScience">
+Tweet #WhatIsMarineScience</a>
+
+## **Tues | DEC 1**
+
+<br>
 
 
+### **#IAmNotMyHair**, **#BlackPeopleDoSwim**
+#### *A day to highlight water competency and natural haircare*
+<br>
+<br>
+ALL DAY | **Post hair care videos**
+<br>
+<br>
+<br>
+<a class="twitter-hashtag-button"
+  href="https://twitter.com/intent/tweet?button_hashtag=IAmNotMyHair">
+Tweet #IAmNotMyHair</a>
+<br>
+<br>
+<hr>
+<br>
+<br>
+10:00am EST | **Water Competency Panel**
+<br>
+<br>
+<br>
+<a class="twitter-hashtag-button"
+  href="https://twitter.com/intent/tweet?button_hashtag=BlackPeopleDoSwim">
+Tweet #BlackPeopleDoSwim</a>
 
 
+## **Weds | DEC 2**
+
+<br>
+
+
+### **#RealTalkWednesday**, **#DivingWhileBlack**, **#OutOfTheWater**
+#### *A day for real talk with real marine scientists*
+<br>
+<br>
+<a class="twitter-hashtag-button"
+  href="https://twitter.com/intent/tweet?button_hashtag=RealTalkWednesday">
+Tweet #RealTalkWednesday</a>
+<br>
+<br>
+<hr>
+<br>
+<br>
+10:00AM EST | **SCUBA Diver Panel**
+<br>
+<br>
+<br>
+<a class="twitter-hashtag-button"
+  href="https://twitter.com/intent/tweet?button_hashtag=DivingWhileBlackr">
+Tweet #DivingWhileBlack</a>
+<br>
+<br>
+<hr>
+<br>
+<br>
+1:00pm EST | **Highlighting LGBTQIA+ Folx in Marine Science**
+<br>
+<br>
+<br>
+<a class="twitter-hashtag-button"
+  href="https://twitter.com/intent/tweet?button_hashtag=OutOfTheWater">
+Tweet #OutOfTheWater</a>
+
+
+## **Thurs | DEC 3**
+
+<br>
+
+### **#TheYouthThursday**, **#BecauseOfThem**, **#RepresentationMatters**
+#### *A day for youth empowerment*
+<br>
+<br>
+<a class="twitter-hashtag-button"
+  href="https://twitter.com/intent/tweet?button_hashtag=TheYouthThursdays">
+Tweet #TheYouthThursday</a>
+<br>
+<br>
+<hr>
+<br>
+<br>
+ALL DAY | **Highlight Black marine scientists; curriculum for teachers on Black marine scientists throughout** history #BecauseOfThem
+<br>
+<br>
+<a class="twitter-hashtag-button"
+  href="https://twitter.com/intent/tweet?button_hashtag=BecauseOfThem">
+Tweet #BecauseOfThem</a>
+<br>
+<br>
+<hr>
+<br>
+<br>
+12:00pm EST | **Empowerment Panel**
+<br>
+<br>
+<a class="twitter-hashtag-button"
+  href="https://twitter.com/intent/tweet?button_hashtag=RepresentationMatters">
+Tweet #RepresentationMatters</a>
+<br>
+<br>
+<hr>
+<br>
+<br>
+1:00pm EST | **Skype-A-Scientist with [Jaida Elcock](JaidaElcock.html)**
+
+## **Fri | DEC 4**
+
+<br>
+
+
+### **#ForUsFriday**, **#MyScientistIdentity**, **#MyScienceBrand**, **#PuttingTheSeaInCode**
+#### *A day for all Black marine scientists to convene for events strictly **FOR US** *
+<br>
+<br>
+ALL DAY | **Post photos & quotes from Black Marine Scientists**
+<br>
+<br>
+<a class="twitter-hashtag-button"
+  href="https://twitter.com/intent/tweet?button_hashtag=ForUsFriday">
+Tweet #ForUsFriday</a>
+<br>
+<br>
+<hr>
+<br>
+<br>
+10:30am - 12:00pm EST | **Science Identity Workshop for Black Undergrads with Drs. Deidre Gibson & Shawn Dash**
+<br>
+<br>
+<a class="twitter-hashtag-button"
+  href="https://twitter.com/intent/tweet?button_hashtag=MyScientistIdentity">
+Tweet #MyScientistIdentity</a>
+<br>
+<br>
+<hr>
+<br>
+<br>
+1:00 - 2:30pm EST | **Build Your Brand Workshop with Danni Washington and Amanda Wise** 
+<br>
+<br>
+<a class="twitter-hashtag-button"
+  href="https://twitter.com/intent/tweet?button_hashtag=MyScienceBrand">
+Tweet #MyScienceBrand</a>
+<br>
+<br>
+<hr>
+<br>
+<br>
+4:00pm EST | **Coding for Marine Scientists**
+<br>
+<br>
+<a class="twitter-hashtag-button"
+  href="https://twitter.com/intent/tweet?button_hashtag=PuttingTheSeaInCode">
+Tweet #PuttingTheSeaInCode</a>
+<br>
+<br>
+<hr>
+<br>
+<br>
+6:00pm - 8:00pm EST | **Networking Social + Happy Hour**
+<br>
+<br>
+
+
+## **Sat | DEC 5**
+
+<br>
+
+### **#BlackMarineJoy**
+#### *A day to explore multiple aquariums with Black Marine Scientists*
+<br>
+<br>
+9:00am EST | **Virginia Aquarium Takeover**
+<br>
+<br>
+<hr>
+<br>
+<br>
+2:00pm EST | **Seattle Aquarium Takeover**
+<br>
+<br>
+<a class="twitter-hashtag-button"
+  href="https://twitter.com/intent/tweet?button_hashtag=BlackMarineJoy">
+Tweet #BlackMarineJoy</a>
