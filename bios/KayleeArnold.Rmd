@@ -1,0 +1,22 @@
+---
+title: "Kaylee Arnold"
+output: 
+  html_document:
+    theme: yeti
+    toc: false
+---
+
+<center>
+
+<br>
+<br>
+
+<img src="orgz_images/KArnold_Spider.jpg" alt="Kaylee holds a tarantula" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="orgz_images/KArnold_Net.jpg" alt="Kaylee holds a fishing net" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<p style="clear: both;">
+
+Twitter Handle: @Black_Ecologist
+
+Pronouns: She / Her
+
+I am currently a PhD student in the Odum School of Ecology at the University of Georgia. I am a disease ecologist who studies the impacts of human and environmental disturbances on disease transmission between humans and animals. I grew up outside of San Diego, CA, and fell in love with the ocean as a young child. I’ve previously worked with marine mammals and marine fish, and I used to work as a science educator at an aquarium.
